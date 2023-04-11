@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LAB03": {
+      "commandName": "Project",
+      "commandLineArgs": "ulaz.txt"
+    }
+  }
+}
